@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "42jo2ZYl3a4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Micha\\source\\repos\\WallOS\\WallOS\\WallOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Micha\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20250209092901\\cosmos.build.0.1.0-localbuild20250209092901.nupkg.sha512",
+    "C:\\Users\\Micha\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20250209092953\\cosmos.common.0.1.0-localbuild20250209092953.nupkg.sha512",
+    "C:\\Users\\Micha\\.nuget\\packages\\cosmos.core\\0.1.0-localbuild20250209092953\\cosmos.core.0.1.0-localbuild20250209092953.nupkg.sha512",
+    "C:\\Users\\Micha\\.nuget\\packages\\cosmos.debug.kernel\\0.1.0-localbuild20250209092953\\cosmos.debug.kernel.0.1.0-localbuild20250209092953.nupkg.sha512",
+    "C:\\Users\\Micha\\.nuget\\packages\\cosmos.hal2\\0.1.0-localbuild20250209092953\\cosmos.hal2.0.1.0-localbuild20250209092953.nupkg.sha512",
+    "C:\\Users\\Micha\\.nuget\\packages\\cosmos.plugs\\0.1.0-localbuild20250209092953\\cosmos.plugs.0.1.0-localbuild20250209092953.nupkg.sha512",
+    "C:\\Users\\Micha\\.nuget\\packages\\cosmos.system2\\0.1.0-localbuild20250209092953\\cosmos.system2.0.1.0-localbuild20250209092953.nupkg.sha512",
+    "C:\\Users\\Micha\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20250209092953\\il2cpu.api.0.1.0-localbuild20250209092953.nupkg.sha512"
+  ],
+  "logs": []
+}

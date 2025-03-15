@@ -1,0 +1,13 @@
+C:\Users\Micha\source\repos\WallOS\WallOS\obj\Debug\net6.0\WallOS.csproj.AssemblyReference.cache
+C:\Users\Micha\source\repos\WallOS\WallOS\obj\Debug\net6.0\WallOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micha\source\repos\WallOS\WallOS\obj\Debug\net6.0\WallOS.AssemblyInfoInputs.cache
+C:\Users\Micha\source\repos\WallOS\WallOS\obj\Debug\net6.0\WallOS.AssemblyInfo.cs
+C:\Users\Micha\source\repos\WallOS\WallOS\obj\Debug\net6.0\WallOS.csproj.CoreCompileInputs.cache
+C:\Users\Micha\source\repos\WallOS\WallOS\obj\Debug\net6.0\WallOS.sourcelink.json
+C:\Users\Micha\source\repos\WallOS\WallOS\bin\Debug\net6.0\WallOS.deps.json
+C:\Users\Micha\source\repos\WallOS\WallOS\bin\Debug\net6.0\WallOS.dll
+C:\Users\Micha\source\repos\WallOS\WallOS\bin\Debug\net6.0\WallOS.pdb
+C:\Users\Micha\source\repos\WallOS\WallOS\obj\Debug\net6.0\WallOS.dll
+C:\Users\Micha\source\repos\WallOS\WallOS\obj\Debug\net6.0\refint\WallOS.dll
+C:\Users\Micha\source\repos\WallOS\WallOS\obj\Debug\net6.0\WallOS.pdb
+C:\Users\Micha\source\repos\WallOS\WallOS\obj\Debug\net6.0\ref\WallOS.dll

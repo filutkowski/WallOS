@@ -8,7 +8,7 @@ using System.IO;
 using System.Diagnostics;
 using System.Threading.Channels;
 using Sys = Cosmos.System;
-namespace WallOS.BootApp
+namespace WallOS.ConsoleApp
 {
     public static class BootConsole
     {
